@@ -1,4 +1,4 @@
-# 🛡️ Ethical Hacker | Pentester | Security Researcher  
+#  Security Researcher  
 
 ---
 
