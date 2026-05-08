@@ -1,19 +1,16 @@
-# ucheema
+# Security Researcher
 
-Security Researcher focused on offensive security, blue teaming, and securing digital infrastructure.
+Focused on offensive security, blue teaming, and vulnerability research.
 
-I enjoy identifying vulnerabilities, understanding attack surfaces, and improving system security through practical research and continuous learning.
+Interested in understanding how systems fail, how attackers operate, and how infrastructure can be secured against real-world threats.
 
-### Focus
-Web Security · Vulnerability Research · Blue Teaming · Red Teaming · Recon Automation
+**Focus**  
+Web Security · Blue Teaming · Reconnaissance · Threat Analysis · Security Automation
 
-### Tools
-Burp Suite · Nmap · Wireshark · OWASP ZAP · Metasploit · Kali Linux · Python
+**Tools**  
+Burp Suite · Wireshark · Nmap · OWASP ZAP · Kali Linux · Python
 
-### Current Work
-- Web application testing  
-- Recon & security automation  
-- Threat analysis and monitoring  
-- TryHackMe / Hack The Box labs  
+**Current Work**  
+Web application testing, recon automation, lab environments, and defensive security research.
 
-> Securing systems. Understanding threats. Building discipline.
+> Security through understanding.
