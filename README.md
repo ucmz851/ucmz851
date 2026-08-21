@@ -10,7 +10,6 @@ hardware ➔ firmware ➔ kernel ➔ memory ➔ networking ➔ distributed syste
 
 <p align="center">
   <a href="https://x.com/UsamaImran12965"><img src="https://img.shields.io/badge/X-@UsamaImran12965-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
-  <a href="https://omarchyplugins.com"><img src="https://img.shields.io/badge/Omarchy%20Marketplace-Verified%20Author-7952b3?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Verified Omarchy Author" /></a>
   <a href="https://github.com/ucmz851"><img src="https://img.shields.io/github/followers/ucmz851?style=for-the-badge&color=2ea44f&label=Followers" alt="GitHub Followers" /></a>
 </p>
 
@@ -25,7 +24,7 @@ hardware ➔ firmware ➔ kernel ➔ memory ➔ networking ➔ distributed syste
 | Project | Description | Stack / Subsystem |
 | :--- | :--- | :--- |
 | 🛡️ [**OmaSecurity**](https://github.com/ucmz851/omasecurity) | **Verified Omarchy Security Auditor** — Evaluates system posture, analyzes shell plugin code health, and provides one-click kernel & CIS hardening. | `QML` • `Python` • `Linux Internals` |
-| 󰖟 [**OmaScan**](https://github.com/ucmz851/omascan) | **Verified Threat Scanner** — Cloud-sandboxed threat intelligence and reputation scanner for URLs, domains, IPs, and file hashes via urlscan.io & VirusTotal. | `QML` • `Python` • `Threat Intel` |
+| 🌐 [**OmaScan**](https://github.com/ucmz851/omascan) | **Verified Threat Scanner** — Cloud-sandboxed threat intelligence and reputation scanner for URLs, domains, IPs, and file hashes via urlscan.io & VirusTotal. | `QML` • `Python` • `Threat Intel` |
 | 🦀 [**ytplay-tui**](https://github.com/ucmz851/ytplay-tui) | Blazing-fast terminal user interface for seamless media playback and streaming workflows. | `Rust` • `Ratatui` • `Async` |
 | 🦀 [**lgtui**](https://github.com/ucmz851/lgtui) | Fast, responsive Linux terminal utility designed for streamlined systems navigation and management. | `Rust` • `Linux Systems` • `CLI` |
 | 🐹 [**gohabit**](https://github.com/ucmz851/gohabit) | Minimalist, keyboard-first CLI tool for engineering discipline, tracking, and daily execution. | `Go` • `Terminal Tooling` |
