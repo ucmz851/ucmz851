@@ -25,8 +25,8 @@ hardware ➔ firmware ➔ kernel ➔ memory ➔ networking ➔ distributed syste
 | :--- | :--- | :--- |
 | 🛡️ [**OmaSecurity**](https://github.com/ucmz851/omasecurity) | **Verified Omarchy Security Auditor** — Evaluates system posture, analyzes shell plugin code health, and provides one-click kernel & CIS hardening. | `QML` • `Python` • `Linux Internals` |
 | 🌐 [**OmaScan**](https://github.com/ucmz851/omascan) | **Verified Threat Scanner** — Cloud-sandboxed threat intelligence and reputation scanner for URLs, domains, IPs, and file hashes via urlscan.io & VirusTotal. | `QML` • `Python` • `Threat Intel` |
+| 🎮 [**lgtui**](https://github.com/ucmz851/lgtui) | **Linux Gaming TUI** — Terminal-based Wine/Proton game manager with prefix isolation, runner configuration, DXVK/VKD3D, MangoHud, and GameMode integration. | `Rust` • `Ratatui` • `Wine / Linux Gaming` |
 | 🦀 [**ytplay-tui**](https://github.com/ucmz851/ytplay-tui) | Blazing-fast terminal user interface for seamless media playback and streaming workflows. | `Rust` • `Ratatui` • `Async` |
-| 🦀 [**lgtui**](https://github.com/ucmz851/lgtui) | Fast, responsive Linux terminal utility designed for streamlined systems navigation and management. | `Rust` • `Linux Systems` • `CLI` |
 | 🐹 [**gohabit**](https://github.com/ucmz851/gohabit) | Minimalist, keyboard-first CLI tool for engineering discipline, tracking, and daily execution. | `Go` • `Terminal Tooling` |
 
 ---
