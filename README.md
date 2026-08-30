@@ -4,20 +4,24 @@
 
 **Systems & Security Engineer • Linux Infrastructure • Open Source Builder**
 
-```text
+<pre>
 hardware ➔ firmware ➔ kernel ➔ memory ➔ networking ➔ distributed systems ➔ security
-```
+</pre>
 
-<p align="center">
-  <a href="https://x.com/ucmz851"><img src="https://img.shields.io/badge/X-@UsamaImran12965-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
-  <a href="https://github.com/ucmz851"><img src="https://img.shields.io/github/followers/ucmz851?style=for-the-badge&color=2ea44f&label=Followers" alt="GitHub Followers" /></a>
+<p>
+  <a href="https://x.com/ucmz851">
+    <img src="https://img.shields.io/badge/X-@ucmz851-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://github.com/ucmz851">
+    <img src="https://img.shields.io/github/followers/ucmz851?style=for-the-badge&color=2ea44f&label=Followers" alt="GitHub Followers" />
+  </a>
 </p>
 
 > *"Understanding systems from the bottom up to build, operate, and secure resilient infrastructure."*
 
----
-
 </div>
+
+---
 
 ### 🛠️ Featured Projects & Open Source Tools
 
@@ -33,19 +37,21 @@ hardware ➔ firmware ➔ kernel ➔ memory ➔ networking ➔ distributed syste
 
 ### ⚙️ Core Technical Focus & Stack
 
-* **Systems & Operating Systems:** Linux (Arch), Linux Kernel Architecture, systemd, POSIX, Wayland / Hyprland, cgroups, Namespaces, eBPF, VFS, Virtual Memory.
-* **Systems Programming:** `Rust` • `Go` • `C` • `Python (Automation & Tooling)` • `Modern Bash / Shell`.
-* **Security Engineering:** Linux Hardening (Kernel / sysctl / permissions), Defensive Architecture, Threat Modeling, Attack Surface Reduction, Offensive Fundamentals, Cloud & Infrastructure Security.
-* **Networking & Infrastructure:** WireGuard, nftables / UFW, Socket Programming, TCP/IP, DNS, TLS/Cryptography, Zero-Trust Architecture.
+- **Systems & Operating Systems:** Linux (Arch), Linux Kernel Architecture, systemd, POSIX, Wayland / Hyprland, cgroups, Namespaces, eBPF, VFS, Virtual Memory.
+- **Systems Programming:** `Rust` • `Go` • `C` • `Python (Automation & Tooling)` • `Modern Bash / Shell`.
+- **Security Engineering:** Linux Hardening (Kernel / sysctl / permissions), Defensive Architecture, Threat Modeling, Attack Surface Reduction, Offensive Fundamentals, Cloud & Infrastructure Security.
+- **Networking & Infrastructure:** WireGuard, nftables / UFW, Socket Programming, TCP/IP, DNS, TLS/Cryptography, Zero-Trust Architecture.
 
 ---
 
 ### 📬 Connect With Me
 
-* 🐦 **X (Twitter):** [@ucmz851](https://x.com/ucmz851)
-* 🌐 **Verified Omarchy Plugins:** [omarchyplugins.com](https://omarchyplugins.com/plugin.html?id=ucmz851.omasecurity)
-* 💻 **GitHub:** [@ucmz851](https://github.com/ucmz851)
+- 🐦 **X (Twitter):** [@ucmz851](https://x.com/ucmz851)
+- 🌐 **Verified Omarchy Plugins:** [omarchyplugins.com](https://omarchyplugins.com/plugin.html?id=ucmz851.omasecurity)
+- 💻 **GitHub:** [@ucmz851](https://github.com/ucmz851)
 
 <div align="center">
-  <sub>Built with focus, technical depth, and engineering rigor.</sub>
+
+<sub>Built with focus, technical depth, and engineering rigor.</sub>
+
 </div>
