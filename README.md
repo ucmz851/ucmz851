@@ -42,7 +42,7 @@ hardware ➔ firmware ➔ kernel ➔ memory ➔ networking ➔ distributed syste
 
 ### 📬 Connect With Me
 
-* 🐦 **X (Twitter):** [@UsamaImran12965](https://x.com/UsamaImran12965)
+* 🐦 **X (Twitter):** [@ucmz851](https://x.com/ucmz851)
 * 🌐 **Verified Omarchy Plugins:** [omarchyplugins.com](https://omarchyplugins.com/plugin.html?id=ucmz851.omasecurity)
 * 💻 **GitHub:** [@ucmz851](https://github.com/ucmz851)
 
