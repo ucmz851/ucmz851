@@ -9,9 +9,6 @@ hardware ➔ firmware ➔ kernel ➔ memory ➔ networking ➔ distributed syste
 </pre>
 
 <p>
-  <a href="https://x.com/ucmz851">
-    <img src="https://img.shields.io/badge/X-@ucmz851-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
   <a href="https://github.com/ucmz851">
     <img src="https://img.shields.io/github/followers/ucmz851?style=for-the-badge&color=2ea44f&label=Followers" alt="GitHub Followers" />
   </a>
@@ -46,7 +43,6 @@ hardware ➔ firmware ➔ kernel ➔ memory ➔ networking ➔ distributed syste
 
 ### 📬 Connect With Me
 
-- 🐦 **X (Twitter):** [@ucmz851](https://x.com/ucmz851)
 - 🌐 **Verified Omarchy Plugins:** [omarchyplugins.com](https://omarchyplugins.com/plugin.html?id=ucmz851.omasecurity)
 - 💻 **GitHub:** [@ucmz851](https://github.com/ucmz851)
 
