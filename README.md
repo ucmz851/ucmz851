@@ -28,14 +28,7 @@ hardware ➔ firmware ➔ kernel ➔ memory ➔ networking ➔ distributed syste
 
 > *"Understanding systems from the bottom up to build, operate, and secure resilient infrastructure."*
 
----
 
-### 🚀 Career Status & International Availability
-**Actively seeking Full-Time roles in Linux Systems Administration, Cloud Infrastructure, and Systems Engineering.**  
-🌍 **Open to On-Site Relocation**: **Dubai (UAE)** • **Saudi Arabia (Riyadh/Dhahran)** • **Malaysia** • **Estonia** • **Global Remote**  
-*(Immediately Available / Passport Ready)*
-
----
 
 </div>
 
