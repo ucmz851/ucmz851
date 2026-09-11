@@ -24,6 +24,9 @@ hardware ➔ firmware ➔ kernel ➔ memory ➔ networking ➔ distributed syste
   <a href="https://ucmz851.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-ucmz851.github.io-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
   </a>
+  <a href="https://x.com/ucmz851" target="_blank">
+    <img src="https://img.shields.io/badge/X-@ucmz851-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
 </p>
 
 > *"Understanding systems from the bottom up to build, operate, and secure resilient infrastructure."*
@@ -59,6 +62,7 @@ hardware ➔ firmware ➔ kernel ➔ memory ➔ networking ➔ distributed syste
 
 * 🌐 **Portfolio Website:** [ucmz851.github.io](https://ucmz851.github.io)
 * 📱 **WhatsApp:** [+92 310 7898064](https://wa.me/923107898064)
+* 𝕏 **X (Twitter):** [@ucmz851](https://x.com/ucmz851)
 * 💼 **LinkedIn:** [linkedin.com/in/usama-imran-7a2690346](https://www.linkedin.com/in/usama-imran-7a2690346/)
 * ✉️ **Email:** [usamaimrancheema435@gmail.com](mailto:usamaimrancheema435@gmail.com)
 * 🌐 **Verified Omarchy Plugins:** [omarchyplugins.com](https://omarchyplugins.com/plugin.html?id=ucmz851.omasecurity)
