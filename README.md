@@ -12,9 +12,6 @@ hardware ➔ firmware ➔ kernel ➔ memory ➔ networking ➔ distributed syste
   <a href="https://github.com/ucmz851">
     <img src="https://img.shields.io/github/followers/ucmz851?style=for-the-badge&color=2563eb&label=Followers" alt="GitHub Followers" />
   </a>
-  <a href="https://wa.me/923107898064" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B923107898064-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
   <a href="https://www.linkedin.com/in/usama-imran-7a2690346/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Usama_Imran-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
@@ -61,7 +58,6 @@ hardware ➔ firmware ➔ kernel ➔ memory ➔ networking ➔ distributed syste
 ### 📬 Connect & Collaborate
 
 * 🌐 **Portfolio Website:** [ucmz851.github.io](https://ucmz851.github.io)
-* 📱 **WhatsApp:** [+92 310 7898064](https://wa.me/923107898064)
 * 𝕏 **X (Twitter):** [@ucmz851](https://x.com/ucmz851)
 * 💼 **LinkedIn:** [linkedin.com/in/usama-imran-7a2690346](https://www.linkedin.com/in/usama-imran-7a2690346/)
 * ✉️ **Email:** [usamaimrancheema435@gmail.com](mailto:usamaimrancheema435@gmail.com)
