@@ -37,11 +37,11 @@ hardware ➔ firmware ➔ kernel ➔ memory ➔ networking ➔ distributed syste
 | Project | Description | Tech Stack / Architecture |
 | :--- | :--- | :--- |
 | ⚡ [**down**](https://github.com/ucmz851/down) | **High-Performance POSIX Concurrency Engine** — Multi-threaded segmented download accelerator with lockless atomic bitfield crash recovery, `posix_fallocate`, dynamic work-stealing, and AWS SigV4 authentication. | `C11` • `POSIX` • `Memory-Mapped I/O` • `AWS SigV4` |
+| 📦 [**containr**](https://github.com/ucmz851/containr) | **Linux Container Runtime from Scratch** — Minimalist container engine leveraging Linux namespaces (`PID`, `UTS`, `Mount`, `IPC`), cgroups v2 resource quotas (memory, CPU, max PIDs), private mount propagation, and rootfs isolation. | `Go` • `Linux Namespaces` • `cgroups v2` • `Syscalls` |
+| 📊 [**prom-linux-exporter**](https://github.com/ucmz851/prom-linux-exporter) | **Zero-Dependency Linux Telemetry Exporter** — High-performance Go daemon parsing `/proc/{stat,meminfo,loadavg,diskstats,net/dev}` directly to expose standard Prometheus telemetry with Docker & Grafana support. | `Go` • `Prometheus` • `Linux /proc VFS` • `Observability` |
 | 🛡️ [**OmaSecurity**](https://github.com/ucmz851/omasecurity) | **Verified Omarchy Security Auditor** — Evaluates system posture, analyzes shell plugin code health, and provides one-click kernel & CIS hardening. | `QML` • `Python` • `Linux Internals` • `Security` |
 | 🌐 [**OmaScan**](https://github.com/ucmz851/omascan) | **Verified Threat Intelligence Scanner** — Cloud-sandboxed threat intelligence and reputation scanner for URLs, domains, IPs, and file hashes via urlscan.io & VirusTotal. | `QML` • `Python` • `Threat Intel` • `Network APIs` |
 | 🎮 [**lgtui**](https://github.com/ucmz851/lgtui) | **Linux Gaming TUI** — Terminal-based Wine/Proton game manager with prefix isolation, runner configuration, DXVK/VKD3D, MangoHud, and GameMode integration. | `Rust` • `Ratatui` • `Wine / Linux Gaming` |
-| 🦀 [**ytplay-tui**](https://github.com/ucmz851/ytplay-tui) | Blazing-fast terminal user interface for seamless media playback and streaming workflows. | `Rust` • `Ratatui` • `Async` |
-| 🐹 [**gohabit**](https://github.com/ucmz851/gohabit) | Minimalist, keyboard-first CLI tool for engineering discipline, tracking, and daily execution. | `Go` • `Terminal Tooling` |
 
 ---
 
