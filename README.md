@@ -2,6 +2,6 @@
 
 Systems engineer &bull; Linux administrator.
 
-Working on low-level systems, server infrastructure, and building quiet, reliable software.
+Operating Systems, Linux , Servers, Networking and Security.
 
 &rarr; [ucmz851.github.io](https://ucmz851.github.io)
